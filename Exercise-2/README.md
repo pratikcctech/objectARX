@@ -11,3 +11,4 @@ Here are the steps:
 6. to unload the file go to appload window and then select loaded file and click unload option to unload file.
  
 7. In essence, this code enables a straightforward integration of a custom command into AutoCAD, allowing users to manage the feature's loading and unloading. When executed in AutoCAD, the custom command presents a greeting message.
+8. 
