@@ -20,3 +20,4 @@ View Text Objects:
 
 The tool will construct two text strings, one showing the age and the other showing the name.
 Two text objects with a height of 3.5 units will be added to the drawing at the specified location.
+
