@@ -19,7 +19,8 @@ Open the ObjectARX project in Microsoft Visual Studio.
 Build the debug version of the project.
 Configure Project for Debugging:
 
-Adjust project properties for debugging. This includes compiler and linker options specific to debugging.
+Adjust project properties for debugging. 
+This includes compiler and linker options specific to debugging.
 Adjust Debugging Settings:
 
 Fine-tune debugging settings in the project properties to suit your development needs.
