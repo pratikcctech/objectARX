@@ -12,6 +12,7 @@
 5) Define Start and End Points for the Line:
       Specifies the 3D coordinates for the start and end points of the new line.
 
+
 6) Create a New Line Object:
       Allocates memory for a new AcDbLine object, representing a straight line entity in AutoCAD.
 
