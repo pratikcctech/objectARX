@@ -12,3 +12,4 @@
     8.Displays the AutoCAD Text Window.
 
 4) This function prints the class names of all objects in the current space to the AutoCAD Text Window.
+5) 
