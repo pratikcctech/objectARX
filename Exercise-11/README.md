@@ -17,3 +17,4 @@ In AutoCAD, enter the custom command associated with the commandAndSystemVariabl
 Interact with CIRCLERAD:
 
 The function will retrieve the current value of the CIRCLERAD system variable, display it, create a circle with specified values, and pause for user input.
+
