@@ -7,3 +7,4 @@ Here are the steps:
 4. Custom Command (MyCommand): Defined the behavior of the custom command "MYCOMMAND" to
   print the message Hello this is pratik and welcome World of AutoCAD on command line.
 5. Unload: Printed a message in the AutoCAD command line to indicate that the application is being unloaded.
+6. 
