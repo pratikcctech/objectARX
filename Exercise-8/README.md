@@ -10,3 +10,4 @@
     6.Closes the selected objects after changing their colors.
 
 4) This function provides a way for the user to interactively change the color of selected objects in AutoCAD by specifying a color keyword or numeric value.
+5) 
