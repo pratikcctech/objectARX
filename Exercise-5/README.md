@@ -11,3 +11,4 @@
     5.Close both the Layer Table and the created layer record to release resources.
   
 5) The makeLayer function ensures the existence of a "OBJ" layer in the drawing and creates it with specified properties if needed.
+6) 
